@@ -20,6 +20,7 @@
   "homepage": "https://github.com/impacevanend/appGraph#readme",
   "dependencies": {
     "apollo-server": "^3.5.0",
-    "graphql": "^15.7.2"
+    "graphql": "^15.7.2",
+    "uuid": "^8.3.2"
   }
 }
