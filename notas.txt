@@ -1,9 +1,0 @@
-comands:
-
-npm init --y
-
-dependencies dev:
-npm i -D @types/cors @types/express @types/express-graphql @types/node nodemon ts-node typescript
-
-dependencies prod:
-npm i express cors apollo-server-express graphql graphql-import-node graphql-tools ncp
